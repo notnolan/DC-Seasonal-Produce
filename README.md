@@ -1,6 +1,6 @@
 # DC Seasonal Produce
 
-A [Claude Code](https://claude.com/claude-code) skill that knows what produce is growing locally around Washington, DC, and uses it to plan meals and adjust recipes.
+A [Claude](https://claude.com) skill that knows what produce is growing locally around Washington, DC, and uses it to plan meals and adjust recipes.
 
 - Answers "what's in season?" for any month, with each month's peak crop.
 - Pairs with a recipe-healthifying skill: checks a recipe's produce against the local season and suggests in-season swaps that match the ingredient's role in the dish.
